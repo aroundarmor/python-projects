@@ -33,7 +33,7 @@ print(customer_one_total)
 #Now Customer Two arrived
 
 customer_two_total=0 #initial cart value
-customer_one_itemization="" #initial items
+customer_two_itemization=""
 
 customer_two_total+=stylish_settee_price #value of item 1
 customer_one_itemization+=stylish_settee_description #item 1
